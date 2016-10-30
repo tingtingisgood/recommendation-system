@@ -1,0 +1,7 @@
+#Note:
+
+1.several parts of the code in the recomendationsystem is just the test code.I just leave them in the program and disable them.
+
+2.according to prediction function we adopt, when the sum of the rating equals zero,I set the rating to "null".So you will see 
+there are actually many null values in the output file.
+    
